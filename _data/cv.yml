@@ -7,7 +7,7 @@ cv:
 
   social_networks:
     - network: LinkedIn # Add real link if known, otherwise generic or remove
-      username: jlcorcuera 
+      username: jlcorcuera
     - network: ORCID
       username: 0000-0002-9984-1904
 
@@ -26,7 +26,6 @@ cv:
           - "Supervisors: Prof. P. Ducange, Prof. A. Bechini, Prof. F. Marcelloni"
           - "URL: https://etd.adm.unipi.it/t/etd-04122024-145034"
 
-
       - institution: University of Pisa
         location: Pisa, Italy
         area: Computer Engineering
@@ -38,7 +37,6 @@ cv:
           - "Thesis: Fake News Detection through density-based data stream clustering"
           - "Supervisors: Prof. A. Bechini, Prof. F. Marcelloni, Ing. A. Bondielli"
           - "URL: https://etd.adm.unipi.it/t/etd-07052020-085158"
-
 
       - institution: Pontificia Universidad Católica del Perú
         location: Lima, Peru

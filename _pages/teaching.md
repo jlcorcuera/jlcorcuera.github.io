@@ -8,6 +8,4 @@ nav_order: 6
 calendar: false
 ---
 
-
-
 {% include courses.liquid %}
