@@ -1,189 +1,196 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: José Luis Corcuera Bárcena
+  label: Researcher / Software Engineer
+  email: jlcorcuera@pucp.pe
+  image: "" # Add an image if available or keep empty
+  summary: Researcher and Senior Software Engineer with a PhD in Information Engineering. Specialized in Artificial Intelligence, Machine Learning, Federated Learning, and Explainable AI. Extensive experience in software development, cloud computing (AWS), and data stream mining.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    - network: LinkedIn # Add real link if known, otherwise generic or remove
+      username: jlcorcuera 
+    - network: ORCID
+      username: 0000-0002-9984-1904
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Pisa
+        location: Pisa, Italy
+        area: Information Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2020-11-01
+        end_date: 2023-10-31
+        score: "Excellent (Awarded 2024-04-11)"
+        courses: "New Approaches to Learning of Trustworthy AI Systems in Clustering and Prediction Problems"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: NEW APPROACHES TO LEARNING OF TRUSTWORTHY AI SYSTEMS IN CLUSTERING AND PREDICTION PROBLEMS"
+          - "Supervisors: Prof. P. Ducange, Prof. A. Bechini, Prof. F. Marcelloni"
+          - "URL: https://etd.adm.unipi.it/t/etd-04122024-145034"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+
+      - institution: University of Pisa
+        location: Pisa, Italy
+        area: Computer Engineering
+        studyType: Master
+        start_date: 2016-09-14
+        end_date: 2020-07-20
+        score: "110/110 Cum Laude"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Fake News Detection through density-based data stream clustering"
+          - "Supervisors: Prof. A. Bechini, Prof. F. Marcelloni, Ing. A. Bondielli"
+          - "URL: https://etd.adm.unipi.it/t/etd-07052020-085158"
+
+
+      - institution: Pontificia Universidad Católica del Perú
+        location: Lima, Peru
+        area: Informatics Engineering
+        studyType: Bachelor
+        start_date: 2002-03-11
+        end_date: 2008-07-12
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Pontificia Universidad Católica del Perú
+        position: Full-time Contract Professor (DTC)
+        location: Lima, Peru
+        start_date: 2026-02-02
+        end_date: Present
+        summary: "Department of Engineering, Computer Science Section."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: University of Pisa
+        position: Fixed-term Researcher
+        location: Pisa, Italy
+        start_date: 2025-01-30
+        end_date: 2026-02-01
+        summary: "Topic: Development of ML-based techniques to understand interaction between individual and public responses to pandemics."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: University of Pisa
+        position: Fixed-term Researcher
+        location: Pisa, Italy
+        start_date: 2023-11-29
+        end_date: 2024-11-28
+        summary: "Topic: Development of methods and algorithms for cooperative learning of explainable AI models preserving data privacy."
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: University of Alberta
+        position: Visiting PhD Student
+        location: Edmonton, Canada
+        start_date: 2023-03-02
+        end_date: 2023-06-26
+        summary: "Research on Federated Learning of Fuzzy Logic Rule Systems. Advisor: Prof. W. Pedrycz."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: University of Pisa
+        position: Research Fellow
+        location: Pisa, Italy
+        start_date: 2020-07-24
+        end_date: 2020-10-31
+        summary: "Development of clustering algorithms for data streams and fake news detection."
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: SparxWorks
+        position: Senior Backend Developer (Remote)
+        location: Lima, Peru
+        start_date: 2020-03
+        end_date: 2020-06
+        summary: "REST service development with Django Rest Framework, Code Review. Tech: MySQL, AWS (SNS, S3, CloudFront, Lambda, RDS, ECS), Python, Django."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: ROOMLESS
+        position: Senior Software Engineer
+        location: Pisa, Italy
+        start_date: 2019-08
+        end_date: 2019-12
+        summary: "RESTful API development with Spring Boot. AWS configuration. Tech: MySQL, AWS (EC2, ELB, S3, RDS, SQS), Java, Spring Boot, Hibernate."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Verizon Enterprise Solutions
+        position: Senior Software Engineer
+        location: Lima, Peru
+        start_date: 2016-05
+        end_date: 2016-08
+        summary: "Security platform support (Solaris/CLIPS). Web service simulation with Java Axis2 and Perl."
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: NorthSouth Studios
+        position: Technical Team Lead
+        location: Lima, Peru
+        start_date: 2015-07
+        end_date: 2016-04
+        summary: "Led team of 6 engineers for CMS/LMS changes. SOLR improvements, Python web app migration to AWS ECS. Tech: MySQL, AWS, Grails, SOLR, Python."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - company: NorthSouth Studios
+        position: Senior Software Engineer
+        location: Lima, Peru
+        start_date: 2014-05
+        end_date: 2015-06
+        summary: "Production support, performance improvement for integration processes. Tech: Oracle, Linux, Java, Tomcat, Hibernate, Maven."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: QTC S.A.C.
+        position: Software Architect
+        location: Lima, Peru
+        start_date: 2013-05
+        end_date: 2014-04
+        summary: "Software architecture for web apps, legacy integration. Tech: Java, Hibernate, Spring, Linux, Oracle."
+
+      - company: Antartec S.A.C
+        position: Senior Software Engineer
+        location: Lima, Peru
+        start_date: 2007-08
+        end_date: 2013-05
+        summary: "Web projects, LMS/CMS implementation and support for high traffic (>100k students). Tech: Java, JBoss Seam, Spring, Hibernate, Oracle."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        keywords: "Python, Java, Erlang, C++, Rust"
+      - name: Libraries & Tools
+        keywords: "Sklearn, Pandas, Numpy, Git, Docker, Matplotlib, Numba, Maven, Pipenv, Spring, Hibernate"
+      - name: Databases
+        keywords: "Redis, MongoDB, AWS DynamoDB, Postgres, Oracle, MySQL, AuroDB, Microsoft SQL Server"
+      - name: Languages
+        keywords: "Spanish (Native), English (C1/Fluent), Italian (Intermediate)"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Sun Certified Java Programmer 5.0
+      - name: Microsoft Certified Technology Specialist (MCTS) - SQLServer 2008
+      - name: Certified Scrum Master
+      - name: PCEP – Certified Entry-Level Python Programmer
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Awards:
+      - title: Key Innovator - Federated Learning of Explainable AI Models (Fed-XAI)
+        awarder: Innovation Radar, European Commission
+        summary: "Recognized for the activity 'Fed-XAI' within the Hexa-X project."
+      - title: 2nd Place - A.S. Watson Group Back-end Coding Challenge
+        date: 2022
+      - title: 1st Place - MDOTM Software Engineer Coding Challenge
+        date: 2021
+      - title: 3rd Place - Zerynth Python Developer Coding Challenge
+        date: 2019
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Publications:
+      - title: "Devising an actor-based middleware support to federated learning experiments and systems"
+        authors: "A. Bechini and J.L. Corcuera Bárcena"
+        publisher: "Future Generation Computer Systems"
+        releaseDate: 2025
+        url: "https://doi.org/10.1016/j.future.2024.107646"
+        summary: "Q1, IF=6.2"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - title: "Increasing trust in AI through privacy preservation and model explainability: Federated Learning of Fuzzy Regression Trees"
+        authors: "J.L. Corcuera Bárcena, P. Ducange, F. Marcelloni, and A. Renda"
+        publisher: "Information Fusion"
+        releaseDate: 2025
+        url: "https://doi.org/10.1016/j.inffus.2024.102598"
+        summary: "Q1, IF=14.7"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "Federated c-means and Fuzzy c-means Clustering Algorithms for Horizontally and Vertically Partitioned Data"
+        authors: "J.L. Corcuera Bárcena, F. Marcelloni, A. Renda, A. Bechini, and P. Ducange"
+        publisher: "IEEE Transactions on Artificial Intelligence"
+        releaseDate: 2024
+        url: "https://ieeexplore.ieee.org/document/10595840"
+        summary: "Q1"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - title: "OpenFL-XAI: Federated Learning of Explainable Artificial Intelligence Models in Python"
+        authors: "M. Daole, A. Schiavo, J.L. Corcuera Bárcena, P. Ducange, F. Marcelloni, and A. Renda"
+        publisher: "SoftwareX"
+        releaseDate: 2023
+        url: "https://doi.org/10.1016/j.softx.2023.101505"
+        summary: "Q2, IF=2.4"
+
+      - title: "Enabling federated learning of explainable AI models within beyond-5G/6G networks"
+        authors: "J.L. Corcuera Bárcena et al."
+        publisher: "Computer Communications"
+        releaseDate: 2023
+        url: "https://doi.org/10.1016/j.comcom.2023.07.039"
+        summary: "Q1, IF=4.5"

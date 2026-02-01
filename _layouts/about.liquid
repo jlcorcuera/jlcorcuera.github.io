@@ -67,7 +67,11 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+          {% social_links %}
+          <a href="https://orcid.org/0000-0002-9984-1904" title="ORCID"><i class="ai ai-orcid"></i></a>
+          <a href="https://scholar.google.com/citations?user=dasDbcAAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
