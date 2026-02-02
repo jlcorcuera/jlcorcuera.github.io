@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Pontificia Universidad Católica del Perú</p>
     <p>Av. Universitaria 1801, San Miguel 15088, Peru</p>
-    <p>+51 1 6262000</p>
+    <p>+51 1 6262000 ext. 4899</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
