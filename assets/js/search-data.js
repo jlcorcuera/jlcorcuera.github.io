@@ -477,8 +477,8 @@ ninja.data = [{
           description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2024-2025).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/dsmt-2024-2025/";
-            },},{id: "teachings-large-scale-management-of-structured-data",
-          title: 'Large Scale Management of Structured Data',
+            },},{id: "teachings-large-scale-and-multi-structured-databases",
+          title: 'Large-Scale and Multi-Structured Databases',
           description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-lsmsd-2022-2023).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/lsmsd-2022-2023/";
