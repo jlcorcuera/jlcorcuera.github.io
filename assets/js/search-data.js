@@ -484,7 +484,7 @@ ninja.data = [{
               window.location.href = "/teachings/dsmt-2024-2025/";
             },},{id: "teachings-large-scale-and-multi-structured-databases",
           title: 'Large-Scale and Multi-Structured Databases',
-          description: "**University of Pisa (UNIPI)**  *MSc. in Artificial Intelligence and Data Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-lsmsd-2022-2023).",
+          description: "**University of Pisa (UNIPI)**  *MSc. Artificial Intelligence and Data Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-lsmsd-2022-2023).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/lsmsd-2022-2023/";
             },},{
