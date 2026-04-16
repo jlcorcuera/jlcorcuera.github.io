@@ -449,37 +449,37 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-algorithms-and-data-structures",
           title: 'Algorithms and Data Structures',
-          description: "**Pontifical Catholic University of Peru (PUCP)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-alg-ds-2026-01).",
+          description: "**Pontifical Catholic University of Peru (PUCP)**  *Undergraduate Students*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-alg-ds-2026-01).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/01-alg-ds-2026-01/";
             },},{id: "teachings-advanced-algorithms",
           title: 'Advanced Algorithms',
-          description: "**Pontifical Catholic University of Peru (PUCP)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-adv-alg-2026-01).",
+          description: "**Pontifical Catholic University of Peru (PUCP)**  *Undergraduate Students*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-adv-alg-2026-01).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/02-adv-alg-2026-01/";
             },},{id: "teachings-programming-3",
           title: 'Programming 3',
-          description: "**Pontifical Catholic University of Peru (PUCP)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-progra3-2026-01).",
+          description: "**Pontifical Catholic University of Peru (PUCP)**  *Undergraduate Students*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-progra3-2026-01).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/03-progra3-2026-01/";
             },},{id: "teachings-distributed-systems-and-middleware-technologies",
           title: 'Distributed Systems and Middleware Technologies',
-          description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2022-2023).",
+          description: "**University of Pisa (UNIPI)**  *MSc. Computer Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2022-2023).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/dsmt-2022-2023/";
             },},{id: "teachings-distributed-systems-and-middleware-technologies",
           title: 'Distributed Systems and Middleware Technologies',
-          description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2023-2024).",
+          description: "**University of Pisa (UNIPI)**  *MSc. Computer Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2023-2024).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/dsmt-2023-2024/";
             },},{id: "teachings-distributed-systems-and-middleware-technologies",
           title: 'Distributed Systems and Middleware Technologies',
-          description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2024-2025).",
+          description: "**University of Pisa (UNIPI)**  *MSc. Computer Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2024-2025).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/dsmt-2024-2025/";
             },},{id: "teachings-large-scale-and-multi-structured-databases",
           title: 'Large-Scale and Multi-Structured Databases',
-          description: "**University of Pisa (UNIPI)**  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-lsmsd-2022-2023).",
+          description: "**University of Pisa (UNIPI)**  *MSc. in Artificial Intelligence and Data Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-lsmsd-2022-2023).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/lsmsd-2022-2023/";
             },},{
