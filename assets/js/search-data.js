@@ -462,6 +462,11 @@ ninja.data = [{
           description: "**Pontifical Catholic University of Peru (PUCP)**  *Undergraduate Students*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/pucp-progra3-2026-01).",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/03-progra3-2026-01/";
+            },},{id: "teachings-non-relational-databases",
+          title: 'Non-Relational Databases',
+          description: "**Pontifical Catholic University of Peru (PUCP)**  *MSc. Computer Science*  Course materials and projects are available on the [GitHub Repository](#).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/04-non-rel-db-2026-01/";
             },},{id: "teachings-distributed-systems-and-middleware-technologies",
           title: 'Distributed Systems and Middleware Technologies',
           description: "**University of Pisa (UNIPI)**  *MSc. Computer Engineering*  Course materials and projects are available on the [GitHub Repository](https://github.com/jlcorcuera/unipi-dsmt-2022-2023).",
